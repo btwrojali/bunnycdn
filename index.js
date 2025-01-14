@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 import cheerio from 'cheerio'
 
-const response = await fetch('https://en.wikipedia.org/wiki/Cache_performance_measurement_and_metric')
+const response = await fetch('https://www.pokerclub88sky.com')
 
 const html = await response.text()
 
